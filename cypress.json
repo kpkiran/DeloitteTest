@@ -1,0 +1,12 @@
+{
+    "browsers": [
+        { 
+            "name": "firefox",
+            "displayName": "Firefox",
+            "family": "firefox",
+            "path": "/Applications/Firefox",
+            "version": "89.0.2",
+            "majorVersion": "89"
+        }
+    ]
+}

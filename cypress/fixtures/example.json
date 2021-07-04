@@ -1,0 +1,6 @@
+{
+  "url": "https://react-shooping-cart.netlify.app/",
+  "productName": "Buffalo - Striploin",
+  "productNames": ["Buffalo - Striploin", "Bacardi Breezer - Tropical"],
+  "emptyCart": "Your cart is empty"
+}

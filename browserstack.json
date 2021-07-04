@@ -1,0 +1,48 @@
+{
+    "auth": {
+        "username": "ravikiranpadki_sjItG4",
+        "access_key": "vBLKH4MsmqHAJ1d2e59T"
+    },
+    "browsers": [
+        {
+            "browser": "chrome",
+            "os": "OS X Mojave",
+            "versions": [
+                "91"
+            ]
+        },
+        {
+            "browser": "firefox",
+            "os": "OS X Mojave",
+            "versions": [
+                "89"
+            ]
+        },
+        {
+            "browser": "edge",
+            "os": "OS X Mojave",
+            "versions": [
+                "91"
+            ]
+        }        
+    ],
+    "run_settings": {
+        "cypress_config_file": "/Users/ravikiranpadki/Downloads/DeloitteTest/cypress.json",
+        "project_name": "DeloitteTest",
+        "build_name": "build-name",
+        "exclude": [],
+        "parallels": "1",
+        "npm_dependencies": {
+            "cypress": "^7.6.0"
+        },
+        "package_config_options": {},
+        "headless": true
+    },
+    "connection_settings": {
+        "local": false,
+        "local_identifier": null,
+        "local_mode": null,
+        "local_config_file": null
+    },
+    "disable_usage_reporting": false
+}
