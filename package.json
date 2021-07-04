@@ -4,7 +4,11 @@
   "description": "deloitte test",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "chrome": "./node_modules/.bin/cypress run --spec cypress/integration/examples/store.test.js --browser=chrome",
+    "firefox": "./node_modules/.bin/cypress run --spec cypress/integration/examples/store.test.js --browser=firefox",
+    "edge": "./node_modules/.bin/cypress run --spec cypress/integration/examples/store.test.js --browser=edge",
+    "electron": "./node_modules/.bin/cypress run --spec cypress/integration/examples/store.test.js --browser=chrome"
+
   },
   "author": "ravikiranpadki",
   "license": "ISC",
